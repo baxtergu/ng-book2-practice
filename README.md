@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Angular2HelloWorld
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
@@ -33,4 +32,3 @@ To get more help on the `angular-cli` use `ng help` or go check out the [Angular
 =======
 # ng-book2-practice
 Practice Project for ng-book2
->>>>>>> ff9c3672a244cc6c2c471284a6f4fc9d9f0de41f
